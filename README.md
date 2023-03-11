@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71783287/224485403-6ff5d7e1-8174-4664-83b0-b047b6020a02.png" />
 </p>
+
 ### Вороги
 ```
 Летюча миша - прискорено літає по трикутній траєкторії
