@@ -1,5 +1,7 @@
 ![image](https://user-images.githubusercontent.com/71783287/224485689-eee3dc2c-09ce-45e4-9766-77be0854de02.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71783287/224485689-eee3dc2c-09ce-45e4-9766-77be0854de02.png" />
+</p>
 > :strawberry: Fruit Land - ігровий застосунок-платформер, де, граючи за віртуального персонажа, необхідно зібрати максимальну кількість полуниць, не натрапивши на ворогів та у пастки!
 
 ```
